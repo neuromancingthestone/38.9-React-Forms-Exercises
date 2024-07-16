@@ -1,0 +1,14 @@
+.TodoList {
+  padding: 2px 2px;
+  border-radius: 2px;
+  margin: 2px auto auto;
+  text-align: center;
+}
+
+.Todo-Container{
+  margin: 2px auto;
+  width: 400px;
+  height: 400px;
+  outline: dashed 1px black;
+  padding: 2px;
+}
